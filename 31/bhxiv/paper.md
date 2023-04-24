@@ -137,8 +137,8 @@ Explore how existing training materials address the topic of Data Management Pla
 
 In addition to improving technical interoperability around linking the RDMkit and the FAIR Cookbook, we performed a gap analysis of the content of the two resources. For this, we focused on two aspects:
 
-1. Missing links between existing pages
-2. Content gaps
+1. missing links between existing pages;
+2. content gaps.
 
 ## Missing page links
 
