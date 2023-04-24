@@ -92,7 +92,7 @@ The following 6 user journeys represent a non-exhaustive list of solutions to co
 
 ### Introduction to the ecosystem
 
-Good management of research data is a cornerstone of Elixir’s mission, with a number of endorsed resources available to help researchers tackle data management challenges. Each of the resources presented here cover slightly different angles of data management, from general topic introductions to step-by-step instructions for solving specific problems.
+Good management of research data is a cornerstone of ELIXIR’s mission, with a number of endorsed resources available to help researchers tackle data management challenges. Each of the resources presented here cover slightly different angles of data management, from general topic introductions to step-by-step instructions for solving specific problems.
 Half a dozen user journeys illustrating some common problems show you how to best make use of the resources as you navigate the fascinating world of research data management.
 Please note that the list of challenges is not exhaustive and that in some cases, not all available links are explicitly shown. We encourage you to explore beyond what is suggested here. Also be aware that all of these are dynamic resources that have new content added all the time.
 
