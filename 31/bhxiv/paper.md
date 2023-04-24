@@ -55,11 +55,11 @@ authors_short: Danielle Welter \emph{et al.}
 
 # Introduction
 
-Biohackathon project 31 "The What & How in data management: Improving connectivity between RDMkit and FAIR Cookbook" was proposed by the joint editorial board of the [RDMkit](https://rdmkit.elixir-europe.org) and [FAIR Cookbook](https://faircookbook.elixir-europe.org/content/home.html). The aims of the project were 3-fold:
+Biohackathon project 31 "The What & How in data management: Improving connectivity between RDMkit and FAIR Cookbook" was proposed by the joint editorial board of the [RDMkit](https://rdmkit.elixir-europe.org) and [FAIR Cookbook](https://faircookbook.elixir-europe.org/content/home.html). The aims of the project were 3-fold.
 
-- Improve the technical interoperability between RDMkit & FAIR Cookbook
-- Clarify and illustrate the ELIXIR research data management ecosystem for users
-- Perform a gap analysis of the ecosystem for targeted content improvements
+- Improve the technical interoperability between RDMkit & FAIR Cookbook.
+- Clarify and illustrate the ELIXIR research data management ecosystem for users.
+- Perform a gap analysis of the ecosystem for targeted content improvements.
 
 
 # Improving the technical interoperability and sustainability
@@ -84,7 +84,7 @@ As second possible improvement we explored the idea of parsing metadata informat
 
 # ELIXIR Research Data Management Ecosystem
 
-A major focus of this project was to generate an improved illustration of the wider ELIXIR Research Data Management (RDM) Ecosystem, its components and how they fit together. While each of the components of the RDM Ecosystem - the RDMkit, the FAIR Cookbook, FAIRsharing, the Data Stewardship Wizard (DSW), bio.tools and TeSS - are all fairly well-documented in their own right, users from outside of ELIXIR or new to research data management often find it difficult to find all the resources or identify which ones best serve their needs. In order to address this gap, we started the process of creating a single unified presentation page to the ELIXIR RDM Ecosystem, highlighting all its components. In particular, we identified a series of representative journeys that users might take to navigate between the resources in order to address common RDM problems. 
+A major focus of this project was to generate an improved illustration of the wider ELIXIR Research Data Management (RDM) Ecosystem, its components and how they fit together. While each of the components of the RDM Ecosystem - the [RDMkit](https://rdmkit.elixir-europe.org/), the [FAIR Cookbook](https://faircookbook.elixir-europe.org/content/home.html), [FAIRsharing](https://fairsharing.org/), the [Data Stewardship Wizard (DSW)](https://ds-wizard.org/), [bio.tools](https://bio.tools/) and [TeSS](https://tess.elixir-europe.org/) - are all fairly well-documented in their own right, users from outside of ELIXIR or new to research data management often find it difficult to find all the resources or identify which ones best serve their needs. In order to address this gap, we started the process of creating a single unified presentation page to the ELIXIR RDM Ecosystem, highlighting all its components. In particular, we identified a series of representative journeys that users might take to navigate between the resources in order to address common RDM problems. 
 
 ## User journeys
 
@@ -137,8 +137,8 @@ Explore how existing training materials address the topic of Data Management Pla
 
 In addition to improving technical interoperability around linking the RDMkit and the FAIR Cookbook, we performed a gap analysis of the content of the two resources. For this, we focused on two aspects:
 
-1. Missing links between existing pages
-2. Content gaps
+1. missing links between existing pages;
+2. content gaps.
 
 ## Missing page links
 
