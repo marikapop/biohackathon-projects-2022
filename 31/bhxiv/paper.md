@@ -55,11 +55,11 @@ authors_short: Danielle Welter \emph{et al.}
 
 # Introduction
 
-Biohackathon project 31 "The What & How in data management: Improving connectivity between RDMkit and FAIR Cookbook" was proposed by the joint editorial board of the [RDMkit](https://rdmkit.elixir-europe.org) and [FAIR Cookbook](https://faircookbook.elixir-europe.org/content/home.html). The aims of the project were 3-fold:
+Biohackathon project 31 "The What & How in data management: Improving connectivity between RDMkit and FAIR Cookbook" was proposed by the joint editorial board of the [RDMkit](https://rdmkit.elixir-europe.org) and [FAIR Cookbook](https://faircookbook.elixir-europe.org/content/home.html). The aims of the project were 3-fold.
 
-- Improve the technical interoperability between RDMkit & FAIR Cookbook
-- Clarify and illustrate the ELIXIR research data management ecosystem for users
-- Perform a gap analysis of the ecosystem for targeted content improvements
+- Improve the technical interoperability between RDMkit & FAIR Cookbook.
+- Clarify and illustrate the ELIXIR research data management ecosystem for users.
+- Perform a gap analysis of the ecosystem for targeted content improvements.
 
 
 # Improving the technical interoperability and sustainability
